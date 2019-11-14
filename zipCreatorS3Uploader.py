@@ -29,4 +29,4 @@ def uploadZipToS3(filename):
 
 if __name__ == '__main__':  
     final_file_name = zipFile()  
-    uploadZipToS3(file_name)
+    uploadZipToS3(final_file_name)
