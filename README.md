@@ -18,3 +18,6 @@ Desktop: https://tzqalw.axshare.com/#g=1&id=s70wim&p=concept_2f_1
 Need a price and eta on just doing the calculator. They will to the rest.
 
 Also a price and ETA on doing the whole landing page
+
+[26/03, 11:49] Michael: michael@disruptiv.com.au/Mihalaki21
+[26/03, 11:49] Michael: https://www.homeloanhq.com.au/wp-admin/plugin-editor.php?file=Home-loan-finder%2Fassets%2Fjs%2Ffront_end.js&plugin=Home-loan-finder%2Ffinder.php
