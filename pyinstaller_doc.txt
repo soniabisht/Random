@@ -1,0 +1,28 @@
+1. What is py  installer?
+-- PyInstaller reads a python script. It analyzes the code to discover every other module and library the script needs in order to execute.
+  Then it collects copes of all those files including the active python interpreter! 
+  - and puts them with script in a single folder, or optionally in a single executable file.
+  PyInstaller abstracts these details from the user by finding all your dependencies and bundling them together. 
+  Your users won’t even know they’re running a Python project because the Python Interpreter itself is bundled into your application. 
+  Goodbye complicated installation instructions!
+
+  PyInstaller performs this amazing feat by introspecting your Python code, detecting your dependencies, 
+  and then packaging them into a suitable format depending on your Operating System.
+  
+  In addition, PyInstaller can create executables for Windows, Linux, or macOS. 
+  This means Windows users will get a .exe, Linux users get a regular executable, and macOS users get a .app bundle.
+  
+2. Preparing Your Project OR Important points to remember
+
+  a). PyInstaller requires your application to conform to some minimal structure, 
+      namely that you have a CLI script to start your application. 
+      Often, this means creating a small script outside of your Python package that simply imports your package and runs main().
+  IMPORTANT TO NOTE  
+  b). The entry-point script is a Python script. You can technically do anything you want in the entry-point script, 
+      but you should AVOID using EXPLICIT RELATIVE imports. You can still use relative imports throughout the rest your application 
+      if that’s your preferred style.
+      **Relative Imports:**
+      A relative import specifies the resource to be imported relative to the current location—that is, 
+      the location where the import statement is.  Eg : from .some_module import some_class
+      
+      
