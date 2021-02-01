@@ -21,3 +21,6 @@ Also a price and ETA on doing the whole landing page
 
 [26/03, 11:49] Michael: michael@disruptiv.com.au/Mihalaki21
 [26/03, 11:49] Michael: https://www.homeloanhq.com.au/wp-admin/plugin-editor.php?file=Home-loan-finder%2Fassets%2Fjs%2Ffront_end.js&plugin=Home-loan-finder%2Ffinder.php
+
+************ Really good questions for AI************
+https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions
