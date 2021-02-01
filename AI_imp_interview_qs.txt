@@ -20,3 +20,28 @@ A: A linear regression refers to a regression model that is completely made up o
     c = constant
     a = slope
     Note : Each and every value will be arround a single straigh slop.
+    
+ Q: type of Linear Regression?
+ A: 
+     1. Simple :In Simple Linear Regression, we try to find the relationship between a single
+     independent variable (input) and a corresponding dependent variable (output). 
+        This can be expressed in the form of a straight line.
+        The same equation of a line can be re-written as:
+        Y =  β0 + β1X + e
+        Y represents the output or dependent variable.
+        β0 and β1 are two unknown constants that represent the intercept and coefficient (slope)
+        respectively.
+        ε (Epsilon) is the error term.
+        The following is a sample graph of a Simple Linear Regression Model :
+        Note : a single line and output arround it.
+        
+    2. Multiple Linear Regression, we try to find the relationship between 2 or more independent 
+    variables (inputs) and the corresponding dependent variable (output). The independent 
+    variables can be continuous or categorical.
+    The equation that describes how the predicted values of y is related to p independent 
+    variables is called as Multiple Linear Regression equation :
+    Y =  β0 + β1x1 + β2x2+ ... + βpxp + e
+    β = Coefficient
+    x = predictor, 'x-variable', independent variable, explanatory variable
+    Y = response, dependent variable, observation, 'y-variable'
+    e = random error, "noise"
