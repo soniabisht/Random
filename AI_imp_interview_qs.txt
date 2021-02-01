@@ -1,0 +1,22 @@
+Python important points to remember for interview:
+
+Q: What is Regression?
+A: Regression is a technique used to model and analyze the relationships between variables and often times how they contribute and
+    are related to producing a particular outcome together.
+
+Q: What are the type of Regression?
+A: Following are the type of regression in ML,
+  1. Linear Regression
+  2. Logistic Regression
+  3. Ridge Regression
+  4. Lasso Regression
+  5. Pollynomial Regression
+  6. Bayesian Rgression
+  
+Q: What is Linear Regression?
+A: A linear regression refers to a regression model that is completely made up of linear variables.
+    We have seen equation like below in maths classes. y is the output we want. x is the input variable. c = constant and a is the slope of the line.
+    y = c + ax
+    c = constant
+    a = slope
+    Note : Each and every value will be arround a single straigh slop.
