@@ -1,0 +1,8 @@
+Conda create new environment:
+1. Open Anaconda Prompt
+2.  conda env create --name environment
+3. conda activate testEnv
+
+For adding the environment to jupyter notebook:
+1. conda install -c anaconda ipykernel
+2. python -m ipykernel install --user --name=firstEnv
